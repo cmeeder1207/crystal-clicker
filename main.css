@@ -2,10 +2,13 @@ img{height: 300px;width:300px}
 
 body{ margin: 10%; background-image: url(https://europebetweeneastandwest.files.wordpress.com/2014/01/p1090990.jpg)}
 
-#goal{size: 1500px;font-family: 'Hanalei Fill', cursive;}
-
-#score{size: 1500px;font-family: 'Hanalei Fill', cursive;}
-
 h1{font-family: 'Hanalei Fill', cursive;}
 
 h2{font-family: 'Hanalei Fill', cursive;}
+
+
+#goal{font-size: 150px;font-family: 'Hanalei Fill', cursive;}
+
+#score{font-size: 150px;font-family: 'Hanalei Fill', cursive;}
+
+.text{size: 15-0px;font-family: 'Hanalei Fill', cursive;}

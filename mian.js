@@ -33,11 +33,11 @@ function getCrystalHandler(crystalKey) {
      $("#score").text(userTotal);
  
      if (userTotal === Goal) {
-         alert= "you win"
+         alert ("you win");
      }
  
      else if (userTotal > Goal) {
-         alert = "you lose"
+         alert ("you lose")
      } 
  }
  }
